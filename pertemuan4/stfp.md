@@ -37,7 +37,9 @@
 
 3. Arahkan directory Cloud (Panel Kanan) ke Folder web server services area
  - /var/www/html
-![alt text](image-16.png)
+<img width="1215" height="981" alt="image-16" src="https://github.com/user-attachments/assets/b0764d7e-59d7-4f26-855e-fe30738f84e8" />
+
+
 
 4. untuk solusi Permission Denied pada folder /var/www/html
 
@@ -45,7 +47,9 @@
     - Mengubah folder /var/www/html agar bisa diakses oleh user 'ubuntu'
     - Sintaks: sudo chown -R ubuntu:ubuntu /var/www/html
 sudo chown -R ubuntu:ubuntu /var/www/html
-![alt text](image-17.png)
+<img width="1194" height="944" alt="image" src="https://github.com/user-attachments/assets/8dba88bb-d1d4-4a30-b0a2-0be9c666894b" />
+
+
 
 5. Edit File index.html menjadi company Profile 
     - Klik Kanan pada file index.html

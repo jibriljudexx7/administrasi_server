@@ -51,4 +51,4 @@ sudo chown -R ubuntu:ubuntu /var/www/html
     - Klik Kanan pada file index.html
     - Klik Edit
     - Edit File index.html menjadi company Profile 
-![alt text](image-18.png)
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/47f90afa-d68a-4563-961b-670166788f62" />
